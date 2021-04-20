@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying at KCG College of Technology
 - 🌱 I’m currently learning React js.
-- 🤔 I’m looking for help with React documentation.
+- 🤔 I’m looking for help with Flutter documentation.
 - 💬 Ask me about Front end design stuffs.
 - 📫 How to reach me:[Twitter - @myselfLogith](https://twitter.com/LogithVj)
 - 😄 Pronouns: he/his
